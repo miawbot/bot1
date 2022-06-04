@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "BabyMiiaw" //namabot kalian
 global.ownername= "Miiaw" //nama kalian
-global.myweb ="https://Nekopoi.care //bebas asal jan hapus
+global.myweb ="https://Nekopoi.care" //bebas asal jan hapus
 global.youtube = "https://nekopoi.carr" //bebas asal jan hapus
 global.github = "https://nothing.com" //bebas
 global.email = "memengbed@gmail.com" //bebas
